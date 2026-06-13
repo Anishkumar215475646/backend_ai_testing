@@ -1,0 +1,9 @@
+# Web Framework & Server
+fastapi==0.116.1
+uvicorn==0.35.0
+pydantic==2.11.7
+
+# Machine Learning & Data Processing
+scikit-learn==1.7.1
+numpy==2.3.2
+joblib==1.5.2
