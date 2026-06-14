@@ -4,4 +4,4 @@
 
 details will be updated after integration with the application.
 
-here are the details 
+here are the details currently i have made the backend of the ai software and 
