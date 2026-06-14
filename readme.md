@@ -1,4 +1,4 @@
-# Ai model which can predict final score based on som eof the student features such as
+# Ai model which can predict final score based on some of the student features such as
 
 ## stress level \n motivation level \n study hours
 
