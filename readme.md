@@ -3,3 +3,5 @@
 ## stress level \n motivation level \n study hours
 
 details will be updated after integration with the application.
+
+here are the details 
